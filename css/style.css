@@ -1414,7 +1414,7 @@ h3 {
 
 /* line 28, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_slider.scss */
 .slider_area .single_slider .text {
-  padding-top: 190px;
+  padding-top: 0px;
 }
 
 /* line 31, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_slider.scss */
@@ -3057,7 +3057,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_service.scss */
 .service_area {
-  padding-top: 200px;
+  padding-top: 0;
   padding-bottom: 70px;
 }
 
